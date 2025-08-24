@@ -163,6 +163,36 @@ a {
     margin-top: 4px;
 }
 
+.quote-container {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    padding: 130px 18px;
+}
+
+.quote {
+    display: flex;
+    flex-wrap: wrap;
+    width: 790px;
+    gap: 8px;
+}
+
+.quote-text {
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: 250;
+    font-style: italic;
+}
+
+.quote-attribution {
+    color:#1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: auto;
+}
+
 footer {
     padding: 40px;
 }
