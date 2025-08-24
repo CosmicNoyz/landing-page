@@ -34,6 +34,11 @@ nav {
     gap: 24px;
 }
 
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
 nav a, .hero-secondary, footer {
     color: #e5e7eb;
     font-size: 18px;
@@ -41,10 +46,6 @@ nav a, .hero-secondary, footer {
 
 nav a {
     text-align: center;
-}
-
-a {
-    text-decoration: none;
 }
 
 .hero-container {
